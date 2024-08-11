@@ -1,6 +1,6 @@
 The Application provide the dark&light mode ... this is the home page
-  ![WhatsApp Image 2024-08-12 at 01 25 23_7ff98fa7](https://github.com/user-attachments/assets/d68e8bed-227a-495e-be00-389b492d3f6b)
-![WhatsApp Image 2024-08-12 at 01 26 40_07287fdf](https://github.com/user-attachments/assets/55d1821c-c73b-4440-b77f-14c782229f65)
+  ![WhatsApp Image 2024-08-12 at 01 25 23_7ff98fa7](https://github.com/user-attachments/assets/d68e8bed-227a-495e-be00-389b492d3f6b)        ![WhatsApp Image 2024-08-12 at 01 26 40_07287fdf](https://github.com/user-attachments/assets/55d1821c-c73b-4440-b77f-14c782229f65)
+
 
 and you can go to any category and show the products and search in the category 
 ![WhatsApp Image 2024-08-12 at 01 30 00_3bac4d0b](https://github.com/user-attachments/assets/c74cda1d-4861-4a19-af7b-25a7b4e059f8)
